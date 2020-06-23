@@ -1,5 +1,5 @@
 <body>
-<h1>PRIVACY POLICY MODEL FOR WIMF</h1>
+<h1>PRIVACY POLICY FOR WIMF</h1>
 <p>This privacy policy governs your use of the software application WIMF (“Application”) for mobile devices that was created by Aum Upadhyay. The Application is a food truck finding and promotion app that uses location services to recommend food trucks close to the user and allows them to add food trucks to favorites as welll as learn more about them. On the seller side, the app allows you to mark your truck as open or closed, see the customer view, and edit your profile. </p>
 <h4>What information does the Application obtain and how is it used?</h4>
 
@@ -20,19 +20,29 @@
 
 <p>When you register with us as a food vendor and use the Application, you generally provide a) your email address, business name, business phone number, password, business description, open and close times, and other registration information. b) You will also provide images relevant to your food truck.</p>
 
+<p>We may also use the information you provided us to contact your from time to time to provide you with important information and required notices.</p>
+
 <h4>Automatically Collected Information</h4>
 
-<p>Location</p>
-
-<p>App Usage Data</p>
+<p>In addition, WIMF may collect certain information automatically, including, but not limited to your location  and information about the way you use the Application.</p>
 
 <h4>Does the Application collect precise real time location information of the device?</h4>
 
-<p></p>
+<p>When you visit the mobile application, we may use GPS technology (or other similar technology) to determine your current location in order to determine the city you are located within and display a location map with relevant advertisements. Food truck vendors can choose to have their location monitored by marking their truck as open. User location will not be shared, however food truck vendor location will be shared within the app. All location data will not be shared with partners.</p>
+
+<p>If you do not want us to use your location for the purposes set forth above, you should turn off the location services for the mobile application located in your mobile phone settings.</p>
 
 <h4>Do third parties see and/or have access to information obtained by the Application?</h4>
 
-<p></p>
+<p>Yes. We will share your information with third parties only in the ways that are described in this privacy statement.
+
+We may disclose User Provided and Automatically Collected Information:
+
+as required by law, such as to comply with a subpoena, or similar legal process;
+
+when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+
+if WIMF is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.</p>
 
 <h4>What are my opt-out rights?</h4>
 
