@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 <h1>PRIVACY POLICY MODEL FOR WIMF</h1>
