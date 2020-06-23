@@ -1,4 +1,3 @@
-<html>
 <body>
 <h1>PRIVACY POLICY MODEL FOR WIMF</h1>
 <p>This privacy policy governs your use of the software application WIMF (“Application”) for mobile devices that was created by Aum Upadhyay. The Application is a food truck finding and promotion app that uses location services to recommend food trucks close to the user and allows them to add food trucks to favorites as welll as learn more about them. On the food truck side, the app allows you to mark your truck as open or closed, see the customer view, and edit your profile. </p>
@@ -16,4 +15,3 @@
 <h4>Your Consent</h4>
 <h4>Contact us</h4>
 </body>
-</html>
