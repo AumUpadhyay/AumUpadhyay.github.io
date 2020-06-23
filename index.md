@@ -14,7 +14,11 @@
 
 <h4>User Provided Information </h4>
 
-<p></p>
+<p>The Application obtains the information you provide when you download and register the Application. Registration with us is mandatory in order to be able to use the basic features of the Application</p>
+
+<p>When you register with us as a user and use the Application, you generally provide your email address, password and other registration information</p>
+
+<p>When you register with us as a food vendor and use the Application, you generally provide a) your email address, business name, business phone number, password, business description, open and close times, and other registration information. b) You will also provide images relevant to your food truck.</p>
 
 <h4>Automatically Collected Information</h4>
 
