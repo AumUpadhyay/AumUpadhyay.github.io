@@ -4,7 +4,7 @@
 <h4>What information does the Application obtain and how is it used?</h4>
 
 <p>Personal Data</p>
-<p>Personally identifiable information (such as your name and email address) that you voluntarily give to us when choosing to participate in the application by creating an account, user information not disclosed to any user of the app. Food vendors who provide personal data will have their phone number, truck name, decription, and images shared with users of the app.Please be advised that some data you disclose in registration is public and that some of your data will be accessible to anyone who accesses the Application.</p>
+<p>Personally identifiable information (such as your name and email address) that users voluntarily give to us when choosing to participate in the application by creating an account, user information not disclosed to any user of the app. Food vendors who provide personal data will have their phone number, truck name, decription, and images shared with users of the app.Please be advised that some data you disclose in registration is public and that some of your data will be accessible to anyone who accesses the Application.</p>
 
 <p>Location Data</p>
 <p>We may request access or permission to and track location-based information from your mobile device, either continuously or while you are using the Application, to provide location-based services. If you wish to change our access or permissions, you may do so in your device’s settings</p>
